@@ -1,5 +1,5 @@
 130.162.188.246 {
-    reverse_proxy localhost:8000
+    reverse_proxy * localhost:8000
 }
 
 prettyprinted.net {
